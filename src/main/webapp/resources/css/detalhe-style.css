@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+
+.produto-dados{
+	height: 380px;
+	margin-top: 3rem;
+}
+
+.imagem{
+	align-content: center;
+}
+
+.preco{
+	font-size: large;
+	margin-right: 1rem; 
+}
+
+.botao-comprar{
+	width: 100%;
+}
+
+.card-footer{
+	border: 0.5px solid rgba(0,0,0,.125);
+	margin-bottom: 2rem;
+	margin-left: 0.8rem;
+	font-size: larger;
+	font-weight: 600;
+	width: 95%;
+	text-align: center;
+}
+
+.alerta{
+	font-style: italic;
+}

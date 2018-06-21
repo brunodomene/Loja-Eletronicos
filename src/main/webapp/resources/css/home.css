@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+.carousel-home {
+	margin-bottom: 1.5rem;
+}
+
+.links-produtos {
+	margin-bottom: 2rem;
+	background: #81818214;
+	padding: 1rem;
+}
+
+.maisVendidos div {
+	margin-top: .5rem;
+	margin-bottom: 1rem;
+}

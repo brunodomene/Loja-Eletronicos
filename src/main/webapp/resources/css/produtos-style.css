@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+.produto{
+	padding-top: 10px;
+	transition: 0.5s;
+	margin: 4px;
+}
+
+.produto:hover{
+	transform: scale(1.02);	
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.produto-footer{
+	background: white;
+}
+
+.img-produto{
+	width: 250px;
+	height: 250px;
+}
+
+.erro{
+	color: red;
+}
+
+.form-control erro{
+	border-color: #e41529;
+}
+
+.nav-produtos{
+	align-self: center;
+	margin-top: .5rem;
+	margin-bottom: .5rem;
+}
+
+.nav-produtos a{
+	width: 150px;
+}
