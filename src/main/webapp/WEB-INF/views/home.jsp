@@ -6,7 +6,7 @@
 <%@ taglib tagdir="/WEB-INF/tags" prefix="tags" %>
 
 
-<tags:paginaTemplate titulo="Home">
+<tags:paginaTemplate titulo="">
 	
 	<div id="carouselHome" align="center" class="carousel slide carousel-home justify-content-center" data-ride="carousel">
 	  <ol class="carousel-indicators">
