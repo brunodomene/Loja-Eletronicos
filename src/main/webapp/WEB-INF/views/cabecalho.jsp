@@ -5,11 +5,10 @@
 
 <body>
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark nav-primaria">
-			<a class="navbar-brand h1 mb-0" href="${s:mvcUrl('HC#home').build()}">Loja Domene</a>
+			<a class="navbar-brand h1 mb-0" href="${s:mvcUrl('HC#home').build()}">Loja Eletrônicos</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSite" aria-controls="navbarSite" aria-expanded="false" aria-label="Toggle navigation">
 			    <span class="navbar-toggler-icon"></span>
 			</button>
-			
 			<div class="collapse navbar-collapse" id="navbarSite">
 				<ul class="navbar-nav mr-auto itens-site">
 					<li class="nav-item"><a class="nav-link" href="${s:mvcUrl('HC#home').build()}">Home</a></li>

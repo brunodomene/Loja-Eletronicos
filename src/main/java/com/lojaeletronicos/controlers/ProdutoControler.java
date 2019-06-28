@@ -52,7 +52,6 @@ public class ProdutoControler {
 			produto.setImagem(caminhoiImagem);
 		}
 		
-		
 		produtoService.salvar(produto);
 		
 		redirectAttributes.addFlashAttribute("mensagem", "Produto salvo com sucesso");

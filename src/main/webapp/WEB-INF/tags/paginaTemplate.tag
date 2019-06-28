@@ -16,7 +16,7 @@
 <link rel="stylesheet" href="${url}/carrinho.css">
 <link rel="stylesheet" href="${url}/main.css">
 <link rel="stylesheet" href="${url}/home.css">
-<title>Loja Domene - ${titulo}</title>
+<title>Loja Eletrônicos - ${titulo}</title>
 </head>
 
 <%@ include file="/WEB-INF/views/cabecalho.jsp" %>
